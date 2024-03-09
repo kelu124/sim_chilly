@@ -10,5 +10,5 @@ Our research contributes to the fields of agent-based modeling, behavioral scien
 
 # Example of results
 
-* [Scenario 1](https://gist.github.com/kelu124/bc1d2478017ff13d5bfc2ded02d5f10a) - style of Stephen King ;)
-* [Scenario 2](https://gist.github.com/kelu124/12afaa23fbb509f886cb692f0b93337c) - style of Neil Gaiman ;)
+* [Scenario 1](https://github.com/kelu124/sim_chilly/blob/main/output/movie_3_suite_simple.md) - style of Stephen King ;)
+* [Scenario 2](https://github.com/kelu124/sim_chilly/blob/main/output/movie_4_simple.md) - style of Neil Gaiman ;)
