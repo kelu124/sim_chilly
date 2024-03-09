@@ -13,7 +13,7 @@ Our research contributes to the fields of agent-based modeling, behavioral scien
 * [Scenario 1](https://github.com/kelu124/sim_chilly/blob/main/output/movie_3_suite_simple.md) - style of Stephen King ;)
 * [Scenario 2](https://github.com/kelu124/sim_chilly/blob/main/output/movie_4_simple.md) - style of Neil Gaiman ;)
 
-# License
+# [License](gpl-3.0.md)
 
 ``` Agent-based modeling for thermal comfort using LLMs-powered actors
     Copyright (C) 2023  Luc Jonveaux
